@@ -3,6 +3,12 @@
 
 this project is a procedurally generated maze game You must navigate through a massive maze while being hunted by a monster that uses A* pathfinding to track you down.
 
+
+
+> [!NOTE]
+> this project has multiple versions make sure to download the latest release.
+
+
 ## Features
 
 - Procedurally Generated Maze 
